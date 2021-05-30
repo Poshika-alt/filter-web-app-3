@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(170, 113, 113);
+}
+
+p{
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    box-shadow: black 1px 1px 18px;
+    background-color: rgb(184, 133, 133);
+}
+
+.btn-primary:hover{
+    background-color: darkolivegreen;
+}
